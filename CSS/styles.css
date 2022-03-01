@@ -1,0 +1,22 @@
+body {
+  background-color: #EFFFFD;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: lightgrey;
+  border-width: 7px;
+  width:5%;
+}
+h1{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+table{
+  border-color: purple;
+  border-style: ridge;
+  border-radius: 10px;
+  border-width: 2px;
+}
